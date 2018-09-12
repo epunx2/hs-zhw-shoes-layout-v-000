@@ -41,6 +41,7 @@
 }
 
 .col-4 {
+  margin-left: 0;
   width: 64%;
   float: left;
 }
