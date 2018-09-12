@@ -23,5 +23,22 @@
 }
 
 /* Posititoning Classes */
+.milk_text {
+  margin: 15px auto;
+}
 
+.col-1, .col-2 {
+  width: 33%;
+  float: left;
+  clear: both;
+}
 
+.col-3 {
+  width: 33%;
+  float: right;
+}
+
+.col-4 {
+  width: 64%;
+  float: left;
+}
