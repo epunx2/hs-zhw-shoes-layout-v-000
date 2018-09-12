@@ -39,8 +39,11 @@
   height: 7
 }
 
+.col-2, .col-3 {
+  margin-left: 2%;
+}
+
 .col-4 {
-  margin-left: 0;
   width: 64%;
   float: left;
 }
