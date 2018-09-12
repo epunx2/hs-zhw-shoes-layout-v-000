@@ -19,8 +19,8 @@
 }
 
 /* Posititoning Classes */
-.milk_text {
-  margin: 15px auto;
+.wrapper {
+  margin: 0 auto;
 }
 
 .col-1, .col-2 {
