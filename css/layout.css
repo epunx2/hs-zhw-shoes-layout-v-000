@@ -25,10 +25,8 @@
 
 [class*="col-"] {
   margin: 2%;
-  marg
 }
-.col-1 {
-}
+
 .col-1, .col-2 {
   width: 31%;
   float: left;
