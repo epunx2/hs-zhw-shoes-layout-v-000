@@ -19,9 +19,6 @@
 }
 
 /* Posititoning Classes */
-.shadow {
-  margin-bottom: 10px;
-}
 
 [class*="col-"] {
   margin-bottom: 2%;
