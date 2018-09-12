@@ -24,7 +24,7 @@
 }
 
 .col-1, .col-2 {
-  width: 32%;
+  width: 34%;
 }
 
 .col-3 {
@@ -34,6 +34,6 @@
 }
 
 .col-4 {
-  width: 65%;
+  width: 64%;
   float: left;
 }
